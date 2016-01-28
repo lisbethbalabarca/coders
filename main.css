@@ -1,0 +1,43 @@
+.foto{
+	position: absolute;
+}
+.uno{
+	top:80px;
+	left:20px;
+}
+.dos{
+	top:80px;
+	left: 250px;
+}
+.tres{
+	top:80px;
+	left: 500px;
+}
+.cuatro{
+	top: 310px;
+	left: 20px;
+
+}
+.cinco{
+	top: 310px;
+	left: 250px;
+}
+.seis{
+	top: 310px;
+	left: 500px;
+}
+
+p{
+	color: white;
+	position: absolute;
+	top: 170px;
+	left: 70px;
+	
+}
+
+.raya{
+	height: 0px;
+	width: 100px;
+	position: relative;
+	border: solid black 5px;
+}
